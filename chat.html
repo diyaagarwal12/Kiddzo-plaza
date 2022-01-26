@@ -1,0 +1,39 @@
+<html>
+    <head>
+       
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<link href="style.css" rel="stylesheet">
+
+</head>
+ 
+<body id="body3">
+    <div class="container">
+    <center>
+        <button id="logout" onclick="logout()"><img id="log" src="https://www.pinclipart.com/picdir/big/182-1821638_logout-icon-png-red-clipart.png"></button>
+<h1>CHATTING HELPER</h1>
+<h4>You can just click the start button and start speaking whattever you want to say and the copy and paste it while chatting . </h4>
+       
+       
+        <hr>
+        <h4 style="color:red;">Please press allow as soon as popup comes. After you give a voice command</h4>
+        
+        <div class="form-group">
+            
+            <label>Your voice output : </label><br>
+            <textarea class="form-controle" id="textbox" readonly="true" ></textarea>
+        </div>
+        <button class="btn-btn primary" onclick="start()">Start</button>
+        <p>Press the Start button</p>
+        
+       
+       
+    </center>
+    </div>
+
+    <script src="chat.js"></script>
+</body>
+</html>

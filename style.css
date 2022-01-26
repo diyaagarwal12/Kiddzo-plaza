@@ -1,0 +1,85 @@
+img{
+    width: 200;
+    height: 150;
+}
+h5{
+    width: 400;
+    text-align: justify;
+}
+#body1{
+  background-image: url("https://www.pinclipart.com/picdir/big/333-3335810_flower-border-design-transparent-background-clipart.png");
+background-repeat: no-repeat;
+background-color: lightskyblue;
+}
+h1{
+    font-weight: bolder;
+    background-color: #686df7;
+    width: 300;
+    color: greenyellow ;
+       text-align: center
+                                                                                                                                                          ;
+}
+#option{
+    background-color: #dca7f2;
+}
+#kids{
+    margin-left: 1100;
+    height: 400;
+    width: 400;
+    margin-bottom: 5000;
+}
+#div1{
+   margin-left: 500;
+}
+
+  #log{
+      height: 50;
+      width: 50;
+  }
+  #logout{
+      margin-right: 1200;
+      background-color: #b7d6f7;
+  }
+  .body_backgorund {
+    background-image: url("https://img.freepik.com/free-photo/blue-marbling-background-golden-marble-liquid-texture_119828-124.jpg?size=626&ext=jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  #head2{
+      color: white;
+  }
+  #option{
+      color: black;
+  }
+  #body3{
+      background-image: url("https://www.teahub.io/photos/full/40-407484_pastel-colored-wallpapers-free-data-src-pastel-wallpaper.jpg");
+  }
+  
+  
